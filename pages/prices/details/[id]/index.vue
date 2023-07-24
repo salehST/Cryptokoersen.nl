@@ -1262,7 +1262,7 @@ export default {
                               data-type="firstOption"
                             >
                               <img
-                                src="@/assets/img/usd-icon.svg"
+                                src="@/assets/img/usd-icon.png"
                                 class="h-5 w-5 translate-x-0 transition group-hover:translate-x-1"
                                 alt=""
                               />
