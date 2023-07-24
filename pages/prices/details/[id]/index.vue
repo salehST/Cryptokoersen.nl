@@ -770,7 +770,7 @@ export default {
                     >
                       <div class="img-s w-8 h-8 rounded-full overflow-hidden">
                         <img
-                          src="@/assets/img/trending/coinbase-w.png"
+                          src="@/assets/img/trending/Coinbase-w.png"
                           alt=""
                           class="object-cover w-full h-full"
                         />
